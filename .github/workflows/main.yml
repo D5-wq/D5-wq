@@ -20,9 +20,8 @@ jobs:
               uses: abozanona/pacman-contribution-graph@main
               with:
                   github_user_name: ${{ github.repository_owner }}
-                  # 원하는 게임 이름을 쉼표로 연결해서 적으세요. 
-                  # (선택 가능: pacman, breakout, galaga, puzzle-bobble, bomberman, minesweeper)
-                  games: 'pacman,breakout'
+                  # puzzle-bobble을 추가했습니다. 다른 게임도 같이 보고 싶다면 쉼표(,)로 연결하면 됩니다.
+                  games: 'puzzle-bobble'
 
             # 생성된 SVG 파일들을 output 브랜치에 저장합니다.
             - name: push SVGs to the output branch
