@@ -4,7 +4,7 @@
 
 🎓 **School**
 
-- 홍익대학교 컴퓨터공학과 `2021.03 ~`
+- 홍익대학교 컴퓨터공학과 `2022.03 ~`
 
 🫡 **Activities**
 
@@ -17,10 +17,10 @@
 
 👨‍💻 **Projects**
 
-- **Muffin** — 매일 아침 가볍게 즐기는 금융 핀셋 가이드 · UMC 10th DEMO DAY 대상 🏆 `Spring Boot`
-- **Dmember** — AI 기반 DM 예약 서비스 Backend · NVIDIA NIM 연동 `Spring Boot`
-- [**Valanse**](https://valanse.kr/main) — 밸런스 게임 콘텐츠 플랫폼 · Product Manager `Next.js` `Spring Boot`
-- [**UniMind**](https://unimind-web.vercel.app/) — AI 학습 지원 서비스 · 기획/프론트/배포 `Next.js`
+- **Muffin** — 매일 아침 가볍게 즐기는 금융 핀셋 가이드 · UMC 10th DEMO DAY 대상 🏆 
+- **Dmember** — AI 기반 DM 예약 서비스 Backend · NVIDIA NIM 연동 
+- [**Valanse**](https://valanse.kr/main) — 밸런스 게임 콘텐츠 플랫폼 · Product Manager
+- [**UniMind**](https://unimind-web.vercel.app/) — AI 학습 지원 서비스 · 기획/프론트/배포
 
 <br/>
 
