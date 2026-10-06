@@ -1,6 +1,6 @@
-### 안녕하세요, 개발자 황윤재입니다 👋
+### 안녕하세요, 백엔드 개발자 황윤재입니다 👋
 
-기획부터 개발, 배포까지 직접 경험하며 아이디어를 실제 서비스로 구현합니다.
+장애를 끝까지 추적해 원인을 밝히고, 해결은 수치로 증명합니다.
 
 🎓 **School**
 
@@ -9,7 +9,7 @@
 🫡 **Activities**
 
 - UMC 11th 홍익대학교 서울 회장 `2026.08 ~ NOW`
-- UMC 10th Web Part `2026.03 ~ 2026.08`
+- UMC 10th `2026.03 ~ 2026.08`
 
 🛫 **Experiences**
 
@@ -17,9 +17,13 @@
 
 👨‍💻 **Projects**
 
-- **Muffin** — 매일 아침 가볍게 즐기는 금융 핀셋 가이드 · UMC 10th DEMO DAY 대상 🏆 
-- **Dmember** — AI 기반 DM 예약 서비스 Backend · NVIDIA NIM 연동 
+- [**Dmember**](https://github.com/Dmember/Dmember-back) — AI 기반 DM 스케줄링 서비스 · Backend Lead · Meta 웹훅 재전송으로 인한 중복 저장 해결
+- [**Burger Coupon Rush**](https://github.com/D5-wq/burger-coupon-rush) — 선착순 쿠폰 동시성 제어 · 초과 발급 868건 → 0건
+- [**store-rank**](https://github.com/D5-wq/store-rank) — 공공데이터 기반 가게·브랜드 창업/폐업 랭킹 · 진행 중
+- **Muffin** — 금융 핀셋 가이드 · UMC 10th DEMO DAY 대상 🏆
 - [**Valanse**](https://valanse.kr/main) — 밸런스 게임 콘텐츠 플랫폼 · Product Manager
+
+✍️ **Blog** · [hyjd5.tistory.com](https://hyjd5.tistory.com)
 
 <br/>
 
