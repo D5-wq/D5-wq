@@ -19,7 +19,6 @@
 
 - [**Dmember**](https://github.com/Dmember/Dmember-back) — AI 기반 DM 스케줄링 서비스 · Backend Lead 
 - [**Burger Coupon Rush**](https://github.com/D5-wq/burger-coupon-rush) — 선착순 쿠폰 동시성 제어 
-- [**store-rank**](https://github.com/D5-wq/store-rank) — 공공데이터 기반 가게·브랜드 창업/폐업 랭킹 · 진행 중
 - [**Muffin**](https://muffin.ai.kr) — 금융 핀셋 가이드 · UMC 10th DEMO DAY 대상 🏆
 - [**Valanse**](https://valanse.kr/main) — 밸런스 게임 콘텐츠 플랫폼 · Product Manager
 
